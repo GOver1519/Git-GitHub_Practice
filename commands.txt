@@ -1,0 +1,5 @@
+cd (fileName): to get inside a fileName
+touch (new fileName.txt/htlm/..):  to create files inside that directory
+git init: initialise git
+git add .: adds all files to staging(step1)
+git status: gives latest status
