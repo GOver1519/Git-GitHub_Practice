@@ -1,0 +1,3 @@
+git branch: checks which branch you are in currently
+git branch (branchName): creates new branch
+git checkout (branchName): switches to particular branch
