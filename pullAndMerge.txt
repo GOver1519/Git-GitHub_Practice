@@ -1,1 +1,2 @@
-skljdlskfj
+git pull: update main branch
+git merge (file that you want to merge): merges file
