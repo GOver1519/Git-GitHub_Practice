@@ -3,3 +3,9 @@ touch (new fileName.txt/htlm/..):  to create files inside that directory
 git init: initialise git
 git add .: adds all files to staging(step1)
 git status: gives latest status
+git commit -m"messge": commits the file(stage2)
+
+
+git remote add origin (link on gitHub): will add to remote
+git branch -M main: adds it to main branch
+git push -u origin main: will push the files to main branch
